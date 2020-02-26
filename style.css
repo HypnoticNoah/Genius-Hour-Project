@@ -1,0 +1,103 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+
+  body {
+    background: rgb(39, 100, 190);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  canvas {
+  margin: 30px;
+  background: rgb(0, 0, 0);
+  outline: 1px solid rgb(14, 9, 255);
+  outline-offset: 1px;
+  outline-width: thick;
+  position: absolute;
+  left: 855px;
+  top: 275px
+  }
+  h1 {
+      position: absolute;
+      left: 870px;
+      top: 25px
+  }
+  h3 {
+      position: absolute;
+      left: 250px;
+      top: 195px
+  }
+  h2 {
+      position: absolute;
+      left: 1500px;
+      top: 195px
+  }
+  li {
+    position: absolute;
+      left: 1690px;
+      top: 300px
+  }
+
+  h4 {
+      position: absolute;
+      left: 1550px;
+      top: 400px
+  }
+
+  p9 {
+    position: absolute;
+      left: 1500px;
+      top: 480px
+  }
+
+  p {
+    position: absolute;
+      left: 30px;
+      top: 305px;
+      font-family: "Times New Roman"
+  }
+  p1 {
+    position: absolute;
+      left: 30px;
+      top: 340px;
+      font-family: "Times New Roman"
+  }
+  p2 {
+    position: absolute;
+      left: 30px;
+      top: 360px;
+      font-family: "Times New Roman"
+  }
+  p3 {
+    position: absolute;
+      left: 30px;
+      top: 380px;
+      font-family: "Times New Roman"
+  }
+  p4 {
+    position: absolute;
+      left: 30px;
+      top: 400px;
+      font-family: "Times New Roman"
+  }
+  p5 {
+    position: absolute;
+      left: 30px;
+      top: 420px;
+      font-family: "Times New Roman"
+  }
+
+  p6 {
+    position: absolute;
+      left: 30px;
+      top: 440px;
+      font-family: "Times New Roman"
+  }
+
+  p7 {
+    position: absolute;
+      left: 950px;
+      top: 750px
+  }
