@@ -10,3 +10,6 @@ This is a school project that I have been working on, I went through a basic Jav
 
 # Dependencies 
 NONE - Just needs all the files that are included!
+
+# Notes 
+I don't have the link of the tutorial I looked at for the snake game part but if I ever find it I will link it here!
