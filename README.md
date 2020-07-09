@@ -6,7 +6,7 @@ This is a school project that I have been working on, I went through a basic Jav
 
   Discord: *Neoptunium#1111*
 
-  Email: *hypnoticnoah@gmail.com*
+  Email: *neoptunium@gmail.com*
 
 # Dependencies 
 NONE - Just needs all the files that are included!
